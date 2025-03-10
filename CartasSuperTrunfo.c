@@ -22,7 +22,7 @@ int main() {
     int Populacao;
     float Area;
     float PIB;
-    int Npontosturísticos;
+    int Npontosturisticos;
 
     printf("Digite a populacao: \n");
     scanf("%d", &Populacao);
@@ -34,7 +34,7 @@ int main() {
     scanf("%f", &PIB);
 
     printf("Digite o Número de Pontos Turísticos: \n");
-    scanf("%d", &Npontosturísticos);
+    scanf("%d", &Npontosturisticos);
 
 
     return 0;
